@@ -1,0 +1,2190 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Yoga Studio",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Yoga - Home 1",
+            "screenshot": "screenshots\/yoga-home-1.jpg",
+            "source": "templates\/yoga-home-1-949dbd5dc76b1fe306035a568fe4d80e.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Yoga - Home 2",
+            "screenshot": "screenshots\/yoga-home-2.jpg",
+            "source": "templates\/yoga-home-2-1a409982bb0459ceb65af5610c51d713.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Yoga - Home 3",
+            "screenshot": "screenshots\/yoga-home-3.jpg",
+            "source": "templates\/yoga-home-3-007f936ed19f150599e8dfeedee6adbc.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Yoga - About 1",
+            "screenshot": "screenshots\/yoga-about-1.jpg",
+            "source": "templates\/yoga-about-1-2444fe0e0cf9b311244ab8d572a7ec6b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Yoga - About 2",
+            "screenshot": "screenshots\/yoga-about-2.jpg",
+            "source": "templates\/yoga-about-2-b89baff7e4965b30f9a9deacb5d449ec.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Yoga - Benefits",
+            "screenshot": "screenshots\/yoga-benefits.jpg",
+            "source": "templates\/yoga-benefits-2ac5abf90ef8d1c8486df00b0837576b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Yoga - Our Team",
+            "screenshot": "screenshots\/yoga-our-team.jpg",
+            "source": "templates\/yoga-our-team-f529d49729c6ac4e962a0ea905837fc3.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Yoga - Services",
+            "screenshot": "screenshots\/yoga-services.jpg",
+            "source": "templates\/yoga-services-84f5ff0e25a37bb7f5df2de251678966.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Yoga - Programs",
+            "screenshot": "screenshots\/yoga-programs.jpg",
+            "source": "templates\/yoga-programs-2bbcf5f76e10f2b1665bc96e8f50c9c5.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Yoga - Series",
+            "screenshot": "screenshots\/yoga-series.jpg",
+            "source": "templates\/yoga-series-f1a844cface24aeaa90765e251edd927.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Calendar",
+            "screenshot": "screenshots\/calendar.jpg",
+            "source": "templates\/calendar-4305861dfab56a0dc6fd2d9a0924ce74.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Yoga - Classes",
+            "screenshot": "screenshots\/yoga-classes.jpg",
+            "source": "templates\/yoga-classes-ccdb8a6da3e8abe005454f32e9e5d455.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Yoga - Event",
+            "screenshot": "screenshots\/yoga-event.jpg",
+            "source": "templates\/yoga-event-289798fde2cd03d42903ff9f0f2894a9.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Yoga - Events",
+            "screenshot": "screenshots\/yoga-events.jpg",
+            "source": "templates\/yoga-events-fe3ebaf5b5df96c7d10aedebc6cd0431.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Yoga - Pricing",
+            "screenshot": "screenshots\/yoga-pricing.jpg",
+            "source": "templates\/yoga-pricing-995171ffb28d2ad32b006a3e3a731e7b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Yoga - Contact",
+            "screenshot": "screenshots\/yoga-contact.jpg",
+            "source": "templates\/yoga-contact-87bd026de03b5d71daa64a3872782f89.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Yoga - Gallery",
+            "screenshot": "screenshots\/yoga-gallery.jpg",
+            "source": "templates\/yoga-gallery-67e341fbb2aa206e16f7e4b458fd1156.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Popup",
+            "screenshot": "screenshots\/popup.jpg",
+            "source": "templates\/popup-726b65c236dd70cf12c19a4f45b06752.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [
+        {
+            "name": "Custom CSS",
+            "description": "These styles are added to the WordPress Customizer.",
+            "file": "css\/customizer.css"
+        }
+    ],
+    "images": [
+        {
+            "filename": "s84-pai-10032.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/s84-pai-10032-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-1-949dbd5dc76b1fe306035a568fe4d80e.json",
+                    "name": "Yoga - Home 1"
+                },
+                {
+                    "source": "templates\/yoga-home-3-007f936ed19f150599e8dfeedee6adbc.json",
+                    "name": "Yoga - Home 3"
+                },
+                {
+                    "source": "templates\/yoga-about-1-2444fe0e0cf9b311244ab8d572a7ec6b.json",
+                    "name": "Yoga - About 1"
+                },
+                {
+                    "source": "templates\/yoga-about-2-b89baff7e4965b30f9a9deacb5d449ec.json",
+                    "name": "Yoga - About 2"
+                },
+                {
+                    "source": "templates\/yoga-benefits-2ac5abf90ef8d1c8486df00b0837576b.json",
+                    "name": "Yoga - Benefits"
+                },
+                {
+                    "source": "templates\/yoga-classes-ccdb8a6da3e8abe005454f32e9e5d455.json",
+                    "name": "Yoga - Classes"
+                },
+                {
+                    "source": "templates\/yoga-events-fe3ebaf5b5df96c7d10aedebc6cd0431.json",
+                    "name": "Yoga - Events"
+                },
+                {
+                    "source": "templates\/yoga-pricing-995171ffb28d2ad32b006a3e3a731e7b.json",
+                    "name": "Yoga - Pricing"
+                }
+            ],
+            "filesize": 74779,
+            "dimensions": [
+                1300,
+                867
+            ]
+        },
+        {
+            "filename": "11icon.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/11icon.png",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-1-949dbd5dc76b1fe306035a568fe4d80e.json",
+                    "name": "Yoga - Home 1"
+                },
+                {
+                    "source": "templates\/yoga-home-2-1a409982bb0459ceb65af5610c51d713.json",
+                    "name": "Yoga - Home 2"
+                },
+                {
+                    "source": "templates\/yoga-home-3-007f936ed19f150599e8dfeedee6adbc.json",
+                    "name": "Yoga - Home 3"
+                },
+                {
+                    "source": "templates\/yoga-benefits-2ac5abf90ef8d1c8486df00b0837576b.json",
+                    "name": "Yoga - Benefits"
+                },
+                {
+                    "source": "templates\/yoga-event-289798fde2cd03d42903ff9f0f2894a9.json",
+                    "name": "Yoga - Event"
+                },
+                {
+                    "source": "templates\/yoga-pricing-995171ffb28d2ad32b006a3e3a731e7b.json",
+                    "name": "Yoga - Pricing"
+                }
+            ],
+            "filesize": 40277,
+            "dimensions": [
+                209,
+                209
+            ]
+        },
+        {
+            "filename": "1icon.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/1icon.png",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-1-949dbd5dc76b1fe306035a568fe4d80e.json",
+                    "name": "Yoga - Home 1"
+                },
+                {
+                    "source": "templates\/yoga-home-2-1a409982bb0459ceb65af5610c51d713.json",
+                    "name": "Yoga - Home 2"
+                },
+                {
+                    "source": "templates\/yoga-home-3-007f936ed19f150599e8dfeedee6adbc.json",
+                    "name": "Yoga - Home 3"
+                },
+                {
+                    "source": "templates\/yoga-services-84f5ff0e25a37bb7f5df2de251678966.json",
+                    "name": "Yoga - Services"
+                },
+                {
+                    "source": "templates\/yoga-classes-ccdb8a6da3e8abe005454f32e9e5d455.json",
+                    "name": "Yoga - Classes"
+                },
+                {
+                    "source": "templates\/yoga-event-289798fde2cd03d42903ff9f0f2894a9.json",
+                    "name": "Yoga - Event"
+                },
+                {
+                    "source": "templates\/yoga-pricing-995171ffb28d2ad32b006a3e3a731e7b.json",
+                    "name": "Yoga - Pricing"
+                }
+            ],
+            "filesize": 45200,
+            "dimensions": [
+                209,
+                209
+            ]
+        },
+        {
+            "filename": "7icon.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/7icon.png",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-1-949dbd5dc76b1fe306035a568fe4d80e.json",
+                    "name": "Yoga - Home 1"
+                },
+                {
+                    "source": "templates\/yoga-home-2-1a409982bb0459ceb65af5610c51d713.json",
+                    "name": "Yoga - Home 2"
+                },
+                {
+                    "source": "templates\/yoga-benefits-2ac5abf90ef8d1c8486df00b0837576b.json",
+                    "name": "Yoga - Benefits"
+                },
+                {
+                    "source": "templates\/yoga-services-84f5ff0e25a37bb7f5df2de251678966.json",
+                    "name": "Yoga - Services"
+                },
+                {
+                    "source": "templates\/yoga-classes-ccdb8a6da3e8abe005454f32e9e5d455.json",
+                    "name": "Yoga - Classes"
+                },
+                {
+                    "source": "templates\/yoga-event-289798fde2cd03d42903ff9f0f2894a9.json",
+                    "name": "Yoga - Event"
+                }
+            ],
+            "filesize": 22597,
+            "dimensions": [
+                209,
+                209
+            ]
+        },
+        {
+            "filename": "8icon.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/8icon.png",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-1-949dbd5dc76b1fe306035a568fe4d80e.json",
+                    "name": "Yoga - Home 1"
+                },
+                {
+                    "source": "templates\/yoga-home-2-1a409982bb0459ceb65af5610c51d713.json",
+                    "name": "Yoga - Home 2"
+                },
+                {
+                    "source": "templates\/yoga-home-3-007f936ed19f150599e8dfeedee6adbc.json",
+                    "name": "Yoga - Home 3"
+                },
+                {
+                    "source": "templates\/yoga-services-84f5ff0e25a37bb7f5df2de251678966.json",
+                    "name": "Yoga - Services"
+                },
+                {
+                    "source": "templates\/yoga-classes-ccdb8a6da3e8abe005454f32e9e5d455.json",
+                    "name": "Yoga - Classes"
+                },
+                {
+                    "source": "templates\/yoga-event-289798fde2cd03d42903ff9f0f2894a9.json",
+                    "name": "Yoga - Event"
+                },
+                {
+                    "source": "templates\/yoga-pricing-995171ffb28d2ad32b006a3e3a731e7b.json",
+                    "name": "Yoga - Pricing"
+                }
+            ],
+            "filesize": 39366,
+            "dimensions": [
+                209,
+                209
+            ]
+        },
+        {
+            "filename": "402-mckinsey-21a6397-eye.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/402-mckinsey-21a6397-eye-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-1-949dbd5dc76b1fe306035a568fe4d80e.json",
+                    "name": "Yoga - Home 1"
+                },
+                {
+                    "source": "templates\/yoga-our-team-f529d49729c6ac4e962a0ea905837fc3.json",
+                    "name": "Yoga - Our Team"
+                },
+                {
+                    "source": "templates\/yoga-programs-2bbcf5f76e10f2b1665bc96e8f50c9c5.json",
+                    "name": "Yoga - Programs"
+                },
+                {
+                    "source": "templates\/yoga-events-fe3ebaf5b5df96c7d10aedebc6cd0431.json",
+                    "name": "Yoga - Events"
+                }
+            ],
+            "filesize": 125106,
+            "dimensions": [
+                1300,
+                867
+            ]
+        },
+        {
+            "filename": "371-mj-3703.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/371-mj-3703-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-1-949dbd5dc76b1fe306035a568fe4d80e.json",
+                    "name": "Yoga - Home 1"
+                },
+                {
+                    "source": "templates\/yoga-programs-2bbcf5f76e10f2b1665bc96e8f50c9c5.json",
+                    "name": "Yoga - Programs"
+                },
+                {
+                    "source": "templates\/yoga-events-fe3ebaf5b5df96c7d10aedebc6cd0431.json",
+                    "name": "Yoga - Events"
+                }
+            ],
+            "filesize": 188682,
+            "dimensions": [
+                1300,
+                867
+            ]
+        },
+        {
+            "filename": "yoga-img-63.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/07\/yoga-img-63.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-1-949dbd5dc76b1fe306035a568fe4d80e.json",
+                    "name": "Yoga - Home 1"
+                },
+                {
+                    "source": "templates\/yoga-programs-2bbcf5f76e10f2b1665bc96e8f50c9c5.json",
+                    "name": "Yoga - Programs"
+                }
+            ],
+            "filesize": 383100,
+            "dimensions": [
+                1920,
+                800
+            ]
+        },
+        {
+            "filename": "402-felix-8090-eye.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/402-felix-8090-eye-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-1-949dbd5dc76b1fe306035a568fe4d80e.json",
+                    "name": "Yoga - Home 1"
+                },
+                {
+                    "source": "templates\/yoga-about-1-2444fe0e0cf9b311244ab8d572a7ec6b.json",
+                    "name": "Yoga - About 1"
+                },
+                {
+                    "source": "templates\/yoga-programs-2bbcf5f76e10f2b1665bc96e8f50c9c5.json",
+                    "name": "Yoga - Programs"
+                },
+                {
+                    "source": "templates\/yoga-series-f1a844cface24aeaa90765e251edd927.json",
+                    "name": "Yoga - Series"
+                },
+                {
+                    "source": "templates\/yoga-classes-ccdb8a6da3e8abe005454f32e9e5d455.json",
+                    "name": "Yoga - Classes"
+                },
+                {
+                    "source": "templates\/yoga-event-289798fde2cd03d42903ff9f0f2894a9.json",
+                    "name": "Yoga - Event"
+                },
+                {
+                    "source": "templates\/yoga-events-fe3ebaf5b5df96c7d10aedebc6cd0431.json",
+                    "name": "Yoga - Events"
+                }
+            ],
+            "filesize": 186971,
+            "dimensions": [
+                1300,
+                867
+            ]
+        },
+        {
+            "filename": "402-felix-8630.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/402-felix-8630-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-1-949dbd5dc76b1fe306035a568fe4d80e.json",
+                    "name": "Yoga - Home 1"
+                },
+                {
+                    "source": "templates\/yoga-programs-2bbcf5f76e10f2b1665bc96e8f50c9c5.json",
+                    "name": "Yoga - Programs"
+                }
+            ],
+            "filesize": 209601,
+            "dimensions": [
+                1300,
+                867
+            ]
+        },
+        {
+            "filename": "402-mckinsey-21a6444-edit.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/402-mckinsey-21a6444-edit-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-1-949dbd5dc76b1fe306035a568fe4d80e.json",
+                    "name": "Yoga - Home 1"
+                },
+                {
+                    "source": "templates\/yoga-about-1-2444fe0e0cf9b311244ab8d572a7ec6b.json",
+                    "name": "Yoga - About 1"
+                },
+                {
+                    "source": "templates\/yoga-programs-2bbcf5f76e10f2b1665bc96e8f50c9c5.json",
+                    "name": "Yoga - Programs"
+                },
+                {
+                    "source": "templates\/calendar-4305861dfab56a0dc6fd2d9a0924ce74.json",
+                    "name": "Calendar"
+                }
+            ],
+            "filesize": 142374,
+            "dimensions": [
+                1300,
+                867
+            ]
+        },
+        {
+            "filename": "402-felix-8297-eye-a.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/402-felix-8297-eye-a-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-1-949dbd5dc76b1fe306035a568fe4d80e.json",
+                    "name": "Yoga - Home 1"
+                },
+                {
+                    "source": "templates\/yoga-benefits-2ac5abf90ef8d1c8486df00b0837576b.json",
+                    "name": "Yoga - Benefits"
+                },
+                {
+                    "source": "templates\/yoga-services-84f5ff0e25a37bb7f5df2de251678966.json",
+                    "name": "Yoga - Services"
+                },
+                {
+                    "source": "templates\/calendar-4305861dfab56a0dc6fd2d9a0924ce74.json",
+                    "name": "Calendar"
+                }
+            ],
+            "filesize": 78067,
+            "dimensions": [
+                1300,
+                731
+            ]
+        },
+        {
+            "filename": "3icon.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/3icon.png",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-1-949dbd5dc76b1fe306035a568fe4d80e.json",
+                    "name": "Yoga - Home 1"
+                },
+                {
+                    "source": "templates\/yoga-home-3-007f936ed19f150599e8dfeedee6adbc.json",
+                    "name": "Yoga - Home 3"
+                },
+                {
+                    "source": "templates\/yoga-benefits-2ac5abf90ef8d1c8486df00b0837576b.json",
+                    "name": "Yoga - Benefits"
+                },
+                {
+                    "source": "templates\/yoga-services-84f5ff0e25a37bb7f5df2de251678966.json",
+                    "name": "Yoga - Services"
+                },
+                {
+                    "source": "templates\/calendar-4305861dfab56a0dc6fd2d9a0924ce74.json",
+                    "name": "Calendar"
+                },
+                {
+                    "source": "templates\/yoga-classes-ccdb8a6da3e8abe005454f32e9e5d455.json",
+                    "name": "Yoga - Classes"
+                },
+                {
+                    "source": "templates\/yoga-pricing-995171ffb28d2ad32b006a3e3a731e7b.json",
+                    "name": "Yoga - Pricing"
+                }
+            ],
+            "filesize": 54078,
+            "dimensions": [
+                209,
+                209
+            ]
+        },
+        {
+            "filename": "6icon.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/6icon.png",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-1-949dbd5dc76b1fe306035a568fe4d80e.json",
+                    "name": "Yoga - Home 1"
+                },
+                {
+                    "source": "templates\/yoga-home-3-007f936ed19f150599e8dfeedee6adbc.json",
+                    "name": "Yoga - Home 3"
+                },
+                {
+                    "source": "templates\/yoga-benefits-2ac5abf90ef8d1c8486df00b0837576b.json",
+                    "name": "Yoga - Benefits"
+                },
+                {
+                    "source": "templates\/yoga-services-84f5ff0e25a37bb7f5df2de251678966.json",
+                    "name": "Yoga - Services"
+                },
+                {
+                    "source": "templates\/calendar-4305861dfab56a0dc6fd2d9a0924ce74.json",
+                    "name": "Calendar"
+                },
+                {
+                    "source": "templates\/yoga-classes-ccdb8a6da3e8abe005454f32e9e5d455.json",
+                    "name": "Yoga - Classes"
+                },
+                {
+                    "source": "templates\/yoga-pricing-995171ffb28d2ad32b006a3e3a731e7b.json",
+                    "name": "Yoga - Pricing"
+                }
+            ],
+            "filesize": 53996,
+            "dimensions": [
+                209,
+                209
+            ]
+        },
+        {
+            "filename": "5icon.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/5icon.png",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-1-949dbd5dc76b1fe306035a568fe4d80e.json",
+                    "name": "Yoga - Home 1"
+                },
+                {
+                    "source": "templates\/yoga-home-3-007f936ed19f150599e8dfeedee6adbc.json",
+                    "name": "Yoga - Home 3"
+                },
+                {
+                    "source": "templates\/yoga-benefits-2ac5abf90ef8d1c8486df00b0837576b.json",
+                    "name": "Yoga - Benefits"
+                },
+                {
+                    "source": "templates\/yoga-services-84f5ff0e25a37bb7f5df2de251678966.json",
+                    "name": "Yoga - Services"
+                },
+                {
+                    "source": "templates\/calendar-4305861dfab56a0dc6fd2d9a0924ce74.json",
+                    "name": "Calendar"
+                },
+                {
+                    "source": "templates\/yoga-classes-ccdb8a6da3e8abe005454f32e9e5d455.json",
+                    "name": "Yoga - Classes"
+                },
+                {
+                    "source": "templates\/yoga-pricing-995171ffb28d2ad32b006a3e3a731e7b.json",
+                    "name": "Yoga - Pricing"
+                }
+            ],
+            "filesize": 48261,
+            "dimensions": [
+                209,
+                209
+            ]
+        },
+        {
+            "filename": "darkside.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/07\/darkside.png",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-1-949dbd5dc76b1fe306035a568fe4d80e.json",
+                    "name": "Yoga - Home 1"
+                },
+                {
+                    "source": "templates\/yoga-benefits-2ac5abf90ef8d1c8486df00b0837576b.json",
+                    "name": "Yoga - Benefits"
+                },
+                {
+                    "source": "templates\/yoga-gallery-67e341fbb2aa206e16f7e4b458fd1156.json",
+                    "name": "Yoga - Gallery"
+                }
+            ],
+            "filesize": 1476,
+            "dimensions": [
+                200,
+                150
+            ]
+        },
+        {
+            "filename": "zusman.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/07\/zusman.png",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-1-949dbd5dc76b1fe306035a568fe4d80e.json",
+                    "name": "Yoga - Home 1"
+                },
+                {
+                    "source": "templates\/yoga-benefits-2ac5abf90ef8d1c8486df00b0837576b.json",
+                    "name": "Yoga - Benefits"
+                },
+                {
+                    "source": "templates\/yoga-gallery-67e341fbb2aa206e16f7e4b458fd1156.json",
+                    "name": "Yoga - Gallery"
+                }
+            ],
+            "filesize": 964,
+            "dimensions": [
+                200,
+                150
+            ]
+        },
+        {
+            "filename": "ARMOND.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/07\/ARMOND.png",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-1-949dbd5dc76b1fe306035a568fe4d80e.json",
+                    "name": "Yoga - Home 1"
+                },
+                {
+                    "source": "templates\/yoga-benefits-2ac5abf90ef8d1c8486df00b0837576b.json",
+                    "name": "Yoga - Benefits"
+                },
+                {
+                    "source": "templates\/yoga-gallery-67e341fbb2aa206e16f7e4b458fd1156.json",
+                    "name": "Yoga - Gallery"
+                }
+            ],
+            "filesize": 755,
+            "dimensions": [
+                200,
+                150
+            ]
+        },
+        {
+            "filename": "larozse.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/07\/larozse.png",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-1-949dbd5dc76b1fe306035a568fe4d80e.json",
+                    "name": "Yoga - Home 1"
+                },
+                {
+                    "source": "templates\/yoga-benefits-2ac5abf90ef8d1c8486df00b0837576b.json",
+                    "name": "Yoga - Benefits"
+                },
+                {
+                    "source": "templates\/yoga-gallery-67e341fbb2aa206e16f7e4b458fd1156.json",
+                    "name": "Yoga - Gallery"
+                }
+            ],
+            "filesize": 1516,
+            "dimensions": [
+                200,
+                150
+            ]
+        },
+        {
+            "filename": "ECOCODE.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/07\/ECOCODE.png",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-1-949dbd5dc76b1fe306035a568fe4d80e.json",
+                    "name": "Yoga - Home 1"
+                },
+                {
+                    "source": "templates\/yoga-benefits-2ac5abf90ef8d1c8486df00b0837576b.json",
+                    "name": "Yoga - Benefits"
+                },
+                {
+                    "source": "templates\/yoga-gallery-67e341fbb2aa206e16f7e4b458fd1156.json",
+                    "name": "Yoga - Gallery"
+                }
+            ],
+            "filesize": 2474,
+            "dimensions": [
+                200,
+                150
+            ]
+        },
+        {
+            "filename": "BOLEIR.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/07\/BOLEIR.png",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-1-949dbd5dc76b1fe306035a568fe4d80e.json",
+                    "name": "Yoga - Home 1"
+                },
+                {
+                    "source": "templates\/yoga-benefits-2ac5abf90ef8d1c8486df00b0837576b.json",
+                    "name": "Yoga - Benefits"
+                },
+                {
+                    "source": "templates\/yoga-gallery-67e341fbb2aa206e16f7e4b458fd1156.json",
+                    "name": "Yoga - Gallery"
+                }
+            ],
+            "filesize": 884,
+            "dimensions": [
+                200,
+                150
+            ]
+        },
+        {
+            "filename": "GEO.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/07\/GEO.png",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-1-949dbd5dc76b1fe306035a568fe4d80e.json",
+                    "name": "Yoga - Home 1"
+                },
+                {
+                    "source": "templates\/yoga-benefits-2ac5abf90ef8d1c8486df00b0837576b.json",
+                    "name": "Yoga - Benefits"
+                },
+                {
+                    "source": "templates\/yoga-gallery-67e341fbb2aa206e16f7e4b458fd1156.json",
+                    "name": "Yoga - Gallery"
+                }
+            ],
+            "filesize": 477,
+            "dimensions": [
+                200,
+                150
+            ]
+        },
+        {
+            "filename": "x.venox_.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/07\/x.venox_.png",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-1-949dbd5dc76b1fe306035a568fe4d80e.json",
+                    "name": "Yoga - Home 1"
+                },
+                {
+                    "source": "templates\/yoga-benefits-2ac5abf90ef8d1c8486df00b0837576b.json",
+                    "name": "Yoga - Benefits"
+                },
+                {
+                    "source": "templates\/yoga-gallery-67e341fbb2aa206e16f7e4b458fd1156.json",
+                    "name": "Yoga - Gallery"
+                }
+            ],
+            "filesize": 1229,
+            "dimensions": [
+                200,
+                150
+            ]
+        },
+        {
+            "filename": "FIFTHFLOUR.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/07\/FIFTHFLOUR.png",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-1-949dbd5dc76b1fe306035a568fe4d80e.json",
+                    "name": "Yoga - Home 1"
+                },
+                {
+                    "source": "templates\/yoga-benefits-2ac5abf90ef8d1c8486df00b0837576b.json",
+                    "name": "Yoga - Benefits"
+                },
+                {
+                    "source": "templates\/yoga-gallery-67e341fbb2aa206e16f7e4b458fd1156.json",
+                    "name": "Yoga - Gallery"
+                }
+            ],
+            "filesize": 910,
+            "dimensions": [
+                200,
+                150
+            ]
+        },
+        {
+            "filename": "s84-b2-card-people-04b-klkk9aoh.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/s84-b2-card-people-04b-klkk9aoh-500x167.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-2-1a409982bb0459ceb65af5610c51d713.json",
+                    "name": "Yoga - Home 2"
+                },
+                {
+                    "source": "templates\/yoga-our-team-f529d49729c6ac4e962a0ea905837fc3.json",
+                    "name": "Yoga - Our Team"
+                },
+                {
+                    "source": "templates\/yoga-classes-ccdb8a6da3e8abe005454f32e9e5d455.json",
+                    "name": "Yoga - Classes"
+                },
+                {
+                    "source": "templates\/yoga-contact-87bd026de03b5d71daa64a3872782f89.json",
+                    "name": "Yoga - Contact"
+                }
+            ],
+            "filesize": 48938,
+            "dimensions": [
+                1300,
+                433
+            ]
+        },
+        {
+            "filename": "pexels-photo-1308746.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/pexels-photo-1308746.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-2-1a409982bb0459ceb65af5610c51d713.json",
+                    "name": "Yoga - Home 2"
+                }
+            ],
+            "filesize": 237736,
+            "dimensions": [
+                1920,
+                1279
+            ]
+        },
+        {
+            "filename": "2icon.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/2icon.png",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-2-1a409982bb0459ceb65af5610c51d713.json",
+                    "name": "Yoga - Home 2"
+                },
+                {
+                    "source": "templates\/yoga-home-3-007f936ed19f150599e8dfeedee6adbc.json",
+                    "name": "Yoga - Home 3"
+                },
+                {
+                    "source": "templates\/yoga-benefits-2ac5abf90ef8d1c8486df00b0837576b.json",
+                    "name": "Yoga - Benefits"
+                },
+                {
+                    "source": "templates\/yoga-services-84f5ff0e25a37bb7f5df2de251678966.json",
+                    "name": "Yoga - Services"
+                },
+                {
+                    "source": "templates\/yoga-classes-ccdb8a6da3e8abe005454f32e9e5d455.json",
+                    "name": "Yoga - Classes"
+                },
+                {
+                    "source": "templates\/yoga-pricing-995171ffb28d2ad32b006a3e3a731e7b.json",
+                    "name": "Yoga - Pricing"
+                }
+            ],
+            "filesize": 22934,
+            "dimensions": [
+                209,
+                209
+            ]
+        },
+        {
+            "filename": "9icon.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/9icon.png",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-2-1a409982bb0459ceb65af5610c51d713.json",
+                    "name": "Yoga - Home 2"
+                },
+                {
+                    "source": "templates\/yoga-benefits-2ac5abf90ef8d1c8486df00b0837576b.json",
+                    "name": "Yoga - Benefits"
+                },
+                {
+                    "source": "templates\/yoga-services-84f5ff0e25a37bb7f5df2de251678966.json",
+                    "name": "Yoga - Services"
+                },
+                {
+                    "source": "templates\/yoga-classes-ccdb8a6da3e8abe005454f32e9e5d455.json",
+                    "name": "Yoga - Classes"
+                }
+            ],
+            "filesize": 44021,
+            "dimensions": [
+                209,
+                209
+            ]
+        },
+        {
+            "filename": "image-from-rawpixel-id-3017974-png.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/image-from-rawpixel-id-3017974-png-500x749.png",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-2-1a409982bb0459ceb65af5610c51d713.json",
+                    "name": "Yoga - Home 2"
+                },
+                {
+                    "source": "templates\/yoga-about-2-b89baff7e4965b30f9a9deacb5d449ec.json",
+                    "name": "Yoga - About 2"
+                },
+                {
+                    "source": "templates\/yoga-benefits-2ac5abf90ef8d1c8486df00b0837576b.json",
+                    "name": "Yoga - Benefits"
+                },
+                {
+                    "source": "templates\/yoga-services-84f5ff0e25a37bb7f5df2de251678966.json",
+                    "name": "Yoga - Services"
+                },
+                {
+                    "source": "templates\/yoga-classes-ccdb8a6da3e8abe005454f32e9e5d455.json",
+                    "name": "Yoga - Classes"
+                }
+            ],
+            "filesize": 1826316,
+            "dimensions": [
+                800,
+                1198
+            ]
+        },
+        {
+            "filename": "4icon.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/4icon.png",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-2-1a409982bb0459ceb65af5610c51d713.json",
+                    "name": "Yoga - Home 2"
+                },
+                {
+                    "source": "templates\/yoga-home-3-007f936ed19f150599e8dfeedee6adbc.json",
+                    "name": "Yoga - Home 3"
+                },
+                {
+                    "source": "templates\/yoga-services-84f5ff0e25a37bb7f5df2de251678966.json",
+                    "name": "Yoga - Services"
+                },
+                {
+                    "source": "templates\/yoga-classes-ccdb8a6da3e8abe005454f32e9e5d455.json",
+                    "name": "Yoga - Classes"
+                },
+                {
+                    "source": "templates\/yoga-pricing-995171ffb28d2ad32b006a3e3a731e7b.json",
+                    "name": "Yoga - Pricing"
+                }
+            ],
+            "filesize": 54586,
+            "dimensions": [
+                209,
+                209
+            ]
+        },
+        {
+            "filename": "371-mj-3703-1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/371-mj-3703-1-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-2-1a409982bb0459ceb65af5610c51d713.json",
+                    "name": "Yoga - Home 2"
+                },
+                {
+                    "source": "templates\/yoga-our-team-f529d49729c6ac4e962a0ea905837fc3.json",
+                    "name": "Yoga - Our Team"
+                },
+                {
+                    "source": "templates\/yoga-programs-2bbcf5f76e10f2b1665bc96e8f50c9c5.json",
+                    "name": "Yoga - Programs"
+                },
+                {
+                    "source": "templates\/yoga-series-f1a844cface24aeaa90765e251edd927.json",
+                    "name": "Yoga - Series"
+                },
+                {
+                    "source": "templates\/yoga-classes-ccdb8a6da3e8abe005454f32e9e5d455.json",
+                    "name": "Yoga - Classes"
+                }
+            ],
+            "filesize": 188682,
+            "dimensions": [
+                1300,
+                867
+            ]
+        },
+        {
+            "filename": "402-felix-8090-eye-1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/402-felix-8090-eye-1-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-2-1a409982bb0459ceb65af5610c51d713.json",
+                    "name": "Yoga - Home 2"
+                },
+                {
+                    "source": "templates\/yoga-our-team-f529d49729c6ac4e962a0ea905837fc3.json",
+                    "name": "Yoga - Our Team"
+                },
+                {
+                    "source": "templates\/yoga-services-84f5ff0e25a37bb7f5df2de251678966.json",
+                    "name": "Yoga - Services"
+                },
+                {
+                    "source": "templates\/yoga-programs-2bbcf5f76e10f2b1665bc96e8f50c9c5.json",
+                    "name": "Yoga - Programs"
+                },
+                {
+                    "source": "templates\/yoga-series-f1a844cface24aeaa90765e251edd927.json",
+                    "name": "Yoga - Series"
+                },
+                {
+                    "source": "templates\/yoga-events-fe3ebaf5b5df96c7d10aedebc6cd0431.json",
+                    "name": "Yoga - Events"
+                },
+                {
+                    "source": "templates\/yoga-gallery-67e341fbb2aa206e16f7e4b458fd1156.json",
+                    "name": "Yoga - Gallery"
+                }
+            ],
+            "filesize": 186971,
+            "dimensions": [
+                1300,
+                867
+            ]
+        },
+        {
+            "filename": "402-felix-8297-eye-a-1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/402-felix-8297-eye-a-1-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-2-1a409982bb0459ceb65af5610c51d713.json",
+                    "name": "Yoga - Home 2"
+                },
+                {
+                    "source": "templates\/yoga-our-team-f529d49729c6ac4e962a0ea905837fc3.json",
+                    "name": "Yoga - Our Team"
+                },
+                {
+                    "source": "templates\/yoga-series-f1a844cface24aeaa90765e251edd927.json",
+                    "name": "Yoga - Series"
+                },
+                {
+                    "source": "templates\/yoga-gallery-67e341fbb2aa206e16f7e4b458fd1156.json",
+                    "name": "Yoga - Gallery"
+                }
+            ],
+            "filesize": 78067,
+            "dimensions": [
+                1300,
+                731
+            ]
+        },
+        {
+            "filename": "402-felix-8630-1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/402-felix-8630-1-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-2-1a409982bb0459ceb65af5610c51d713.json",
+                    "name": "Yoga - Home 2"
+                },
+                {
+                    "source": "templates\/yoga-home-3-007f936ed19f150599e8dfeedee6adbc.json",
+                    "name": "Yoga - Home 3"
+                },
+                {
+                    "source": "templates\/yoga-our-team-f529d49729c6ac4e962a0ea905837fc3.json",
+                    "name": "Yoga - Our Team"
+                },
+                {
+                    "source": "templates\/yoga-programs-2bbcf5f76e10f2b1665bc96e8f50c9c5.json",
+                    "name": "Yoga - Programs"
+                },
+                {
+                    "source": "templates\/yoga-classes-ccdb8a6da3e8abe005454f32e9e5d455.json",
+                    "name": "Yoga - Classes"
+                },
+                {
+                    "source": "templates\/yoga-gallery-67e341fbb2aa206e16f7e4b458fd1156.json",
+                    "name": "Yoga - Gallery"
+                }
+            ],
+            "filesize": 209601,
+            "dimensions": [
+                1300,
+                867
+            ]
+        },
+        {
+            "filename": "402-mckinsey-21a6397-eye-1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/402-mckinsey-21a6397-eye-1-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-2-1a409982bb0459ceb65af5610c51d713.json",
+                    "name": "Yoga - Home 2"
+                },
+                {
+                    "source": "templates\/yoga-our-team-f529d49729c6ac4e962a0ea905837fc3.json",
+                    "name": "Yoga - Our Team"
+                },
+                {
+                    "source": "templates\/yoga-services-84f5ff0e25a37bb7f5df2de251678966.json",
+                    "name": "Yoga - Services"
+                },
+                {
+                    "source": "templates\/yoga-programs-2bbcf5f76e10f2b1665bc96e8f50c9c5.json",
+                    "name": "Yoga - Programs"
+                },
+                {
+                    "source": "templates\/yoga-series-f1a844cface24aeaa90765e251edd927.json",
+                    "name": "Yoga - Series"
+                },
+                {
+                    "source": "templates\/yoga-classes-ccdb8a6da3e8abe005454f32e9e5d455.json",
+                    "name": "Yoga - Classes"
+                },
+                {
+                    "source": "templates\/yoga-gallery-67e341fbb2aa206e16f7e4b458fd1156.json",
+                    "name": "Yoga - Gallery"
+                }
+            ],
+            "filesize": 125106,
+            "dimensions": [
+                1300,
+                867
+            ]
+        },
+        {
+            "filename": "402-mckinsey-21a6444-edit-1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/402-mckinsey-21a6444-edit-1-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-2-1a409982bb0459ceb65af5610c51d713.json",
+                    "name": "Yoga - Home 2"
+                },
+                {
+                    "source": "templates\/yoga-our-team-f529d49729c6ac4e962a0ea905837fc3.json",
+                    "name": "Yoga - Our Team"
+                },
+                {
+                    "source": "templates\/yoga-programs-2bbcf5f76e10f2b1665bc96e8f50c9c5.json",
+                    "name": "Yoga - Programs"
+                },
+                {
+                    "source": "templates\/yoga-gallery-67e341fbb2aa206e16f7e4b458fd1156.json",
+                    "name": "Yoga - Gallery"
+                }
+            ],
+            "filesize": 142374,
+            "dimensions": [
+                1300,
+                867
+            ]
+        },
+        {
+            "filename": "371-mj-3960.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/371-mj-3960-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-2-1a409982bb0459ceb65af5610c51d713.json",
+                    "name": "Yoga - Home 2"
+                },
+                {
+                    "source": "templates\/yoga-about-2-b89baff7e4965b30f9a9deacb5d449ec.json",
+                    "name": "Yoga - About 2"
+                }
+            ],
+            "filesize": 158360,
+            "dimensions": [
+                1300,
+                867
+            ]
+        },
+        {
+            "filename": "388-mj-3957-01.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/388-mj-3957-01-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-2-1a409982bb0459ceb65af5610c51d713.json",
+                    "name": "Yoga - Home 2"
+                },
+                {
+                    "source": "templates\/yoga-home-3-007f936ed19f150599e8dfeedee6adbc.json",
+                    "name": "Yoga - Home 3"
+                },
+                {
+                    "source": "templates\/yoga-about-1-2444fe0e0cf9b311244ab8d572a7ec6b.json",
+                    "name": "Yoga - About 1"
+                },
+                {
+                    "source": "templates\/yoga-about-2-b89baff7e4965b30f9a9deacb5d449ec.json",
+                    "name": "Yoga - About 2"
+                },
+                {
+                    "source": "templates\/yoga-our-team-f529d49729c6ac4e962a0ea905837fc3.json",
+                    "name": "Yoga - Our Team"
+                },
+                {
+                    "source": "templates\/yoga-services-84f5ff0e25a37bb7f5df2de251678966.json",
+                    "name": "Yoga - Services"
+                },
+                {
+                    "source": "templates\/yoga-events-fe3ebaf5b5df96c7d10aedebc6cd0431.json",
+                    "name": "Yoga - Events"
+                },
+                {
+                    "source": "templates\/yoga-contact-87bd026de03b5d71daa64a3872782f89.json",
+                    "name": "Yoga - Contact"
+                }
+            ],
+            "filesize": 204686,
+            "dimensions": [
+                1300,
+                1949
+            ]
+        },
+        {
+            "filename": "371-mckinsey-21a3179-card_1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/371-mckinsey-21a3179-card_1-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-2-1a409982bb0459ceb65af5610c51d713.json",
+                    "name": "Yoga - Home 2"
+                },
+                {
+                    "source": "templates\/yoga-home-3-007f936ed19f150599e8dfeedee6adbc.json",
+                    "name": "Yoga - Home 3"
+                },
+                {
+                    "source": "templates\/yoga-about-1-2444fe0e0cf9b311244ab8d572a7ec6b.json",
+                    "name": "Yoga - About 1"
+                },
+                {
+                    "source": "templates\/yoga-about-2-b89baff7e4965b30f9a9deacb5d449ec.json",
+                    "name": "Yoga - About 2"
+                },
+                {
+                    "source": "templates\/yoga-our-team-f529d49729c6ac4e962a0ea905837fc3.json",
+                    "name": "Yoga - Our Team"
+                },
+                {
+                    "source": "templates\/yoga-series-f1a844cface24aeaa90765e251edd927.json",
+                    "name": "Yoga - Series"
+                },
+                {
+                    "source": "templates\/yoga-contact-87bd026de03b5d71daa64a3872782f89.json",
+                    "name": "Yoga - Contact"
+                },
+                {
+                    "source": "templates\/yoga-gallery-67e341fbb2aa206e16f7e4b458fd1156.json",
+                    "name": "Yoga - Gallery"
+                }
+            ],
+            "filesize": 128103,
+            "dimensions": [
+                1300,
+                867
+            ]
+        },
+        {
+            "filename": "388-mckinsey-21a3897-jir.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/388-mckinsey-21a3897-jir-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-2-1a409982bb0459ceb65af5610c51d713.json",
+                    "name": "Yoga - Home 2"
+                },
+                {
+                    "source": "templates\/yoga-about-2-b89baff7e4965b30f9a9deacb5d449ec.json",
+                    "name": "Yoga - About 2"
+                },
+                {
+                    "source": "templates\/yoga-programs-2bbcf5f76e10f2b1665bc96e8f50c9c5.json",
+                    "name": "Yoga - Programs"
+                },
+                {
+                    "source": "templates\/yoga-event-289798fde2cd03d42903ff9f0f2894a9.json",
+                    "name": "Yoga - Event"
+                },
+                {
+                    "source": "templates\/yoga-pricing-995171ffb28d2ad32b006a3e3a731e7b.json",
+                    "name": "Yoga - Pricing"
+                },
+                {
+                    "source": "templates\/yoga-contact-87bd026de03b5d71daa64a3872782f89.json",
+                    "name": "Yoga - Contact"
+                }
+            ],
+            "filesize": 120500,
+            "dimensions": [
+                1300,
+                867
+            ]
+        },
+        {
+            "filename": "yoga-img-47.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/07\/yoga-img-47.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-3-007f936ed19f150599e8dfeedee6adbc.json",
+                    "name": "Yoga - Home 3"
+                },
+                {
+                    "source": "templates\/yoga-series-f1a844cface24aeaa90765e251edd927.json",
+                    "name": "Yoga - Series"
+                },
+                {
+                    "source": "templates\/yoga-event-289798fde2cd03d42903ff9f0f2894a9.json",
+                    "name": "Yoga - Event"
+                }
+            ],
+            "filesize": 278014,
+            "dimensions": [
+                1920,
+                800
+            ]
+        },
+        {
+            "filename": "yoga-header.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/yoga-header.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-3-007f936ed19f150599e8dfeedee6adbc.json",
+                    "name": "Yoga - Home 3"
+                },
+                {
+                    "source": "templates\/yoga-about-1-2444fe0e0cf9b311244ab8d572a7ec6b.json",
+                    "name": "Yoga - About 1"
+                },
+                {
+                    "source": "templates\/yoga-series-f1a844cface24aeaa90765e251edd927.json",
+                    "name": "Yoga - Series"
+                },
+                {
+                    "source": "templates\/yoga-event-289798fde2cd03d42903ff9f0f2894a9.json",
+                    "name": "Yoga - Event"
+                },
+                {
+                    "source": "templates\/yoga-events-fe3ebaf5b5df96c7d10aedebc6cd0431.json",
+                    "name": "Yoga - Events"
+                }
+            ],
+            "filesize": 184216,
+            "dimensions": [
+                2561,
+                1379
+            ]
+        },
+        {
+            "filename": "371-mj-3718.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/371-mj-3718-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-3-007f936ed19f150599e8dfeedee6adbc.json",
+                    "name": "Yoga - Home 3"
+                },
+                {
+                    "source": "templates\/yoga-about-1-2444fe0e0cf9b311244ab8d572a7ec6b.json",
+                    "name": "Yoga - About 1"
+                },
+                {
+                    "source": "templates\/yoga-our-team-f529d49729c6ac4e962a0ea905837fc3.json",
+                    "name": "Yoga - Our Team"
+                },
+                {
+                    "source": "templates\/yoga-services-84f5ff0e25a37bb7f5df2de251678966.json",
+                    "name": "Yoga - Services"
+                },
+                {
+                    "source": "templates\/yoga-series-f1a844cface24aeaa90765e251edd927.json",
+                    "name": "Yoga - Series"
+                },
+                {
+                    "source": "templates\/yoga-events-fe3ebaf5b5df96c7d10aedebc6cd0431.json",
+                    "name": "Yoga - Events"
+                },
+                {
+                    "source": "templates\/yoga-contact-87bd026de03b5d71daa64a3872782f89.json",
+                    "name": "Yoga - Contact"
+                },
+                {
+                    "source": "templates\/yoga-gallery-67e341fbb2aa206e16f7e4b458fd1156.json",
+                    "name": "Yoga - Gallery"
+                }
+            ],
+            "filesize": 179946,
+            "dimensions": [
+                1300,
+                867
+            ]
+        },
+        {
+            "filename": "yoga-img-101.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/07\/yoga-img-101.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-home-3-007f936ed19f150599e8dfeedee6adbc.json",
+                    "name": "Yoga - Home 3"
+                },
+                {
+                    "source": "templates\/yoga-our-team-f529d49729c6ac4e962a0ea905837fc3.json",
+                    "name": "Yoga - Our Team"
+                }
+            ],
+            "filesize": 108432,
+            "dimensions": [
+                800,
+                800
+            ]
+        },
+        {
+            "filename": "s4.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/s4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-about-1-2444fe0e0cf9b311244ab8d572a7ec6b.json",
+                    "name": "Yoga - About 1"
+                }
+            ],
+            "filesize": 64517,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "s5.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/s5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-about-1-2444fe0e0cf9b311244ab8d572a7ec6b.json",
+                    "name": "Yoga - About 1"
+                },
+                {
+                    "source": "templates\/yoga-about-2-b89baff7e4965b30f9a9deacb5d449ec.json",
+                    "name": "Yoga - About 2"
+                },
+                {
+                    "source": "templates\/yoga-events-fe3ebaf5b5df96c7d10aedebc6cd0431.json",
+                    "name": "Yoga - Events"
+                }
+            ],
+            "filesize": 78614,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "yoga-img-41.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/07\/yoga-img-41.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-about-1-2444fe0e0cf9b311244ab8d572a7ec6b.json",
+                    "name": "Yoga - About 1"
+                }
+            ],
+            "filesize": 122175,
+            "dimensions": [
+                800,
+                500
+            ]
+        },
+        {
+            "filename": "s6.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/s6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-about-2-b89baff7e4965b30f9a9deacb5d449ec.json",
+                    "name": "Yoga - About 2"
+                },
+                {
+                    "source": "templates\/calendar-4305861dfab56a0dc6fd2d9a0924ce74.json",
+                    "name": "Calendar"
+                },
+                {
+                    "source": "templates\/yoga-events-fe3ebaf5b5df96c7d10aedebc6cd0431.json",
+                    "name": "Yoga - Events"
+                }
+            ],
+            "filesize": 88557,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "yoga-img-26.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/07\/yoga-img-26.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-about-2-b89baff7e4965b30f9a9deacb5d449ec.json",
+                    "name": "Yoga - About 2"
+                },
+                {
+                    "source": "templates\/calendar-4305861dfab56a0dc6fd2d9a0924ce74.json",
+                    "name": "Calendar"
+                },
+                {
+                    "source": "templates\/yoga-events-fe3ebaf5b5df96c7d10aedebc6cd0431.json",
+                    "name": "Yoga - Events"
+                }
+            ],
+            "filesize": 84088,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "gallery-6.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/gallery-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-benefits-2ac5abf90ef8d1c8486df00b0837576b.json",
+                    "name": "Yoga - Benefits"
+                },
+                {
+                    "source": "templates\/calendar-4305861dfab56a0dc6fd2d9a0924ce74.json",
+                    "name": "Calendar"
+                },
+                {
+                    "source": "templates\/yoga-gallery-67e341fbb2aa206e16f7e4b458fd1156.json",
+                    "name": "Yoga - Gallery"
+                }
+            ],
+            "filesize": 184012,
+            "dimensions": [
+                800,
+                800
+            ]
+        },
+        {
+            "filename": "12icon.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/12icon.png",
+            "templates": [
+                {
+                    "source": "templates\/yoga-benefits-2ac5abf90ef8d1c8486df00b0837576b.json",
+                    "name": "Yoga - Benefits"
+                }
+            ],
+            "filesize": 51326,
+            "dimensions": [
+                209,
+                209
+            ]
+        },
+        {
+            "filename": "388-mj-3912-l.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/388-mj-3912-l-500x167.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-programs-2bbcf5f76e10f2b1665bc96e8f50c9c5.json",
+                    "name": "Yoga - Programs"
+                }
+            ],
+            "filesize": 83878,
+            "dimensions": [
+                1300,
+                434
+            ]
+        },
+        {
+            "filename": "yoga-img-94.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/07\/yoga-img-94.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-programs-2bbcf5f76e10f2b1665bc96e8f50c9c5.json",
+                    "name": "Yoga - Programs"
+                }
+            ],
+            "filesize": 152534,
+            "dimensions": [
+                800,
+                500
+            ]
+        },
+        {
+            "filename": "marion-michele-191320-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/marion-michele-191320-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-programs-2bbcf5f76e10f2b1665bc96e8f50c9c5.json",
+                    "name": "Yoga - Programs"
+                },
+                {
+                    "source": "templates\/yoga-event-289798fde2cd03d42903ff9f0f2894a9.json",
+                    "name": "Yoga - Event"
+                }
+            ],
+            "filesize": 665014,
+            "dimensions": [
+                2500,
+                1405
+            ]
+        },
+        {
+            "filename": "s8.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/s8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-programs-2bbcf5f76e10f2b1665bc96e8f50c9c5.json",
+                    "name": "Yoga - Programs"
+                },
+                {
+                    "source": "templates\/yoga-gallery-67e341fbb2aa206e16f7e4b458fd1156.json",
+                    "name": "Yoga - Gallery"
+                }
+            ],
+            "filesize": 74357,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "gallery-8.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/gallery-8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-programs-2bbcf5f76e10f2b1665bc96e8f50c9c5.json",
+                    "name": "Yoga - Programs"
+                },
+                {
+                    "source": "templates\/calendar-4305861dfab56a0dc6fd2d9a0924ce74.json",
+                    "name": "Calendar"
+                },
+                {
+                    "source": "templates\/yoga-gallery-67e341fbb2aa206e16f7e4b458fd1156.json",
+                    "name": "Yoga - Gallery"
+                }
+            ],
+            "filesize": 174530,
+            "dimensions": [
+                800,
+                800
+            ]
+        },
+        {
+            "filename": "yoga-img-1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/yoga-img-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-programs-2bbcf5f76e10f2b1665bc96e8f50c9c5.json",
+                    "name": "Yoga - Programs"
+                },
+                {
+                    "source": "templates\/calendar-4305861dfab56a0dc6fd2d9a0924ce74.json",
+                    "name": "Calendar"
+                }
+            ],
+            "filesize": 100991,
+            "dimensions": [
+                800,
+                800
+            ]
+        },
+        {
+            "filename": "yoga-img-60.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/07\/yoga-img-60.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-programs-2bbcf5f76e10f2b1665bc96e8f50c9c5.json",
+                    "name": "Yoga - Programs"
+                }
+            ],
+            "filesize": 113290,
+            "dimensions": [
+                800,
+                500
+            ]
+        },
+        {
+            "filename": "yoga-img-7.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/yoga-img-7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-programs-2bbcf5f76e10f2b1665bc96e8f50c9c5.json",
+                    "name": "Yoga - Programs"
+                },
+                {
+                    "source": "templates\/yoga-gallery-67e341fbb2aa206e16f7e4b458fd1156.json",
+                    "name": "Yoga - Gallery"
+                }
+            ],
+            "filesize": 139937,
+            "dimensions": [
+                800,
+                800
+            ]
+        },
+        {
+            "filename": "max-rovensky-545700-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/max-rovensky-545700-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-series-f1a844cface24aeaa90765e251edd927.json",
+                    "name": "Yoga - Series"
+                },
+                {
+                    "source": "templates\/popup-726b65c236dd70cf12c19a4f45b06752.json",
+                    "name": "Popup"
+                }
+            ],
+            "filesize": 1404031,
+            "dimensions": [
+                2500,
+                1660
+            ]
+        },
+        {
+            "filename": "yoga-img-23.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/07\/yoga-img-23.jpg",
+            "templates": [
+                {
+                    "source": "templates\/calendar-4305861dfab56a0dc6fd2d9a0924ce74.json",
+                    "name": "Calendar"
+                }
+            ],
+            "filesize": 66305,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "gallery-3.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/gallery-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/calendar-4305861dfab56a0dc6fd2d9a0924ce74.json",
+                    "name": "Calendar"
+                }
+            ],
+            "filesize": 126013,
+            "dimensions": [
+                800,
+                800
+            ]
+        },
+        {
+            "filename": "yoga-img-2-2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/yoga-img-2-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/calendar-4305861dfab56a0dc6fd2d9a0924ce74.json",
+                    "name": "Calendar"
+                }
+            ],
+            "filesize": 201849,
+            "dimensions": [
+                800,
+                800
+            ]
+        },
+        {
+            "filename": "yoga-img-29-1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/07\/yoga-img-29-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/calendar-4305861dfab56a0dc6fd2d9a0924ce74.json",
+                    "name": "Calendar"
+                },
+                {
+                    "source": "templates\/yoga-gallery-67e341fbb2aa206e16f7e4b458fd1156.json",
+                    "name": "Yoga - Gallery"
+                }
+            ],
+            "filesize": 53830,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "yoga-img-28.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/07\/yoga-img-28.jpg",
+            "templates": [
+                {
+                    "source": "templates\/calendar-4305861dfab56a0dc6fd2d9a0924ce74.json",
+                    "name": "Calendar"
+                }
+            ],
+            "filesize": 88949,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "yoga-img-22.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/07\/yoga-img-22.jpg",
+            "templates": [
+                {
+                    "source": "templates\/calendar-4305861dfab56a0dc6fd2d9a0924ce74.json",
+                    "name": "Calendar"
+                },
+                {
+                    "source": "templates\/yoga-gallery-67e341fbb2aa206e16f7e4b458fd1156.json",
+                    "name": "Yoga - Gallery"
+                }
+            ],
+            "filesize": 36664,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "gallery-2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/gallery-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/calendar-4305861dfab56a0dc6fd2d9a0924ce74.json",
+                    "name": "Calendar"
+                }
+            ],
+            "filesize": 237799,
+            "dimensions": [
+                800,
+                800
+            ]
+        },
+        {
+            "filename": "yoga-img-31.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/07\/yoga-img-31.jpg",
+            "templates": [
+                {
+                    "source": "templates\/calendar-4305861dfab56a0dc6fd2d9a0924ce74.json",
+                    "name": "Calendar"
+                }
+            ],
+            "filesize": 60987,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "yoga-img-27.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/07\/yoga-img-27.jpg",
+            "templates": [
+                {
+                    "source": "templates\/calendar-4305861dfab56a0dc6fd2d9a0924ce74.json",
+                    "name": "Calendar"
+                }
+            ],
+            "filesize": 50915,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "yoga-img-6.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/yoga-img-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/calendar-4305861dfab56a0dc6fd2d9a0924ce74.json",
+                    "name": "Calendar"
+                }
+            ],
+            "filesize": 232825,
+            "dimensions": [
+                800,
+                800
+            ]
+        },
+        {
+            "filename": "yoga-img-4.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/yoga-img-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/calendar-4305861dfab56a0dc6fd2d9a0924ce74.json",
+                    "name": "Calendar"
+                }
+            ],
+            "filesize": 78476,
+            "dimensions": [
+                800,
+                800
+            ]
+        },
+        {
+            "filename": "s1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/s1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/calendar-4305861dfab56a0dc6fd2d9a0924ce74.json",
+                    "name": "Calendar"
+                }
+            ],
+            "filesize": 125056,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "yoga-img-5.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/yoga-img-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/calendar-4305861dfab56a0dc6fd2d9a0924ce74.json",
+                    "name": "Calendar"
+                }
+            ],
+            "filesize": 97810,
+            "dimensions": [
+                800,
+                800
+            ]
+        },
+        {
+            "filename": "yoga-img-25.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/07\/yoga-img-25.jpg",
+            "templates": [
+                {
+                    "source": "templates\/calendar-4305861dfab56a0dc6fd2d9a0924ce74.json",
+                    "name": "Calendar"
+                }
+            ],
+            "filesize": 60099,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "yoga-img-3.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/yoga-img-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/calendar-4305861dfab56a0dc6fd2d9a0924ce74.json",
+                    "name": "Calendar"
+                }
+            ],
+            "filesize": 247957,
+            "dimensions": [
+                800,
+                800
+            ]
+        },
+        {
+            "filename": "402-mckinsey-21a6444-edit.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/07\/402-mckinsey-21a6444-edit-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-classes-ccdb8a6da3e8abe005454f32e9e5d455.json",
+                    "name": "Yoga - Classes"
+                },
+                {
+                    "source": "templates\/yoga-events-fe3ebaf5b5df96c7d10aedebc6cd0431.json",
+                    "name": "Yoga - Events"
+                }
+            ],
+            "filesize": 142374,
+            "dimensions": [
+                1300,
+                867
+            ]
+        },
+        {
+            "filename": "jon-flobrant-234565-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/jon-flobrant-234565-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-event-289798fde2cd03d42903ff9f0f2894a9.json",
+                    "name": "Yoga - Event"
+                }
+            ],
+            "filesize": 1305105,
+            "dimensions": [
+                2500,
+                1667
+            ]
+        },
+        {
+            "filename": "yoga-img-32.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/07\/yoga-img-32.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-event-289798fde2cd03d42903ff9f0f2894a9.json",
+                    "name": "Yoga - Event"
+                }
+            ],
+            "filesize": 142969,
+            "dimensions": [
+                800,
+                500
+            ]
+        },
+        {
+            "filename": "371-mj-3783-l.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/06\/371-mj-3783-l-500x167.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-events-fe3ebaf5b5df96c7d10aedebc6cd0431.json",
+                    "name": "Yoga - Events"
+                }
+            ],
+            "filesize": 71783,
+            "dimensions": [
+                1300,
+                433
+            ]
+        },
+        {
+            "filename": "yoga-img-24.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/07\/yoga-img-24.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-gallery-67e341fbb2aa206e16f7e4b458fd1156.json",
+                    "name": "Yoga - Gallery"
+                }
+            ],
+            "filesize": 74084,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "yoga-img-30.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/48\/2018\/07\/yoga-img-30.jpg",
+            "templates": [
+                {
+                    "source": "templates\/yoga-gallery-67e341fbb2aa206e16f7e4b458fd1156.json",
+                    "name": "Yoga - Gallery"
+                }
+            ],
+            "filesize": 86768,
+            "dimensions": [
+                500,
+                500
+            ]
+        }
+    ]
+}

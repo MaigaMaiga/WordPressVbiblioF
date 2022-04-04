@@ -1,0 +1,5 @@
+/* Kit 45 Fix for Parallax Backgrounds + Video */
+  .envato-kit-45-background-fix {
+    -webkit-transform: translate3d(0,0,0);
+      transform: translate3d(0,0,0);
+  }

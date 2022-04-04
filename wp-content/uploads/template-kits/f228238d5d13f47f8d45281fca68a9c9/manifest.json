@@ -1,0 +1,270 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Climate Change Awareness",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1-d0b4606878b819e6c8513515286320b1.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2 (Pro)",
+            "screenshot": "screenshots\/home-2-pro-.jpg",
+            "source": "templates\/home-2-pro-52bec7c5ca44e8dd235136f739958826.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 3",
+            "screenshot": "screenshots\/home-3.jpg",
+            "source": "templates\/home-3-b72c2e76b85ce30e885e7b5edd4106a0.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 4 (Pro)",
+            "screenshot": "screenshots\/home-4-pro-.jpg",
+            "source": "templates\/home-4-pro-4d8e99be0818a04b2a44981b852a05c8.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 5",
+            "screenshot": "screenshots\/home-5.jpg",
+            "source": "templates\/home-5-ba06aec6f1fd0cabff8248aa437c5df9.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 6 (Pro)",
+            "screenshot": "screenshots\/home-6-pro-.jpg",
+            "source": "templates\/home-6-pro-2d4bf1ac458a39843509eb9f8645f3e4.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About 1",
+            "screenshot": "screenshots\/about-1.jpg",
+            "source": "templates\/about-1-ac6508886a668776bf8927f1b04f04c9.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About 2 (Pro)",
+            "screenshot": "screenshots\/about-2-pro-.jpg",
+            "source": "templates\/about-2-pro-d966f95294d906b43c02d0b00aa7d596.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Coming Soon 1",
+            "screenshot": "screenshots\/coming-soon-1.jpg",
+            "source": "templates\/coming-soon-1-e5a519726424c1de90847c045ffea24b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Coming Soon 2 (Pro)",
+            "screenshot": "screenshots\/coming-soon-2-pro-.jpg",
+            "source": "templates\/coming-soon-2-pro-5de2f4da26a99d444fd440a6a0f65dae.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "The Crisis 1",
+            "screenshot": "screenshots\/the-crisis-1.jpg",
+            "source": "templates\/the-crisis-1-2742d98607ef0cc0e74bdc3a5ad6b9ba.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "The Crisis 2 (Pro)",
+            "screenshot": "screenshots\/the-crisis-2-pro-.jpg",
+            "source": "templates\/the-crisis-2-pro-5325e8e581d8e2f1b79747817fb445d6.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "The Solutions 1",
+            "screenshot": "screenshots\/the-solutions-1.jpg",
+            "source": "templates\/the-solutions-1-12c5176ca629214feb8609f8afd30bb4.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "The Solutions 2 (Pro)",
+            "screenshot": "screenshots\/the-solutions-2-pro-.jpg",
+            "source": "templates\/the-solutions-2-pro-4f800bf182305668ed435956c4c8ec75.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ 1",
+            "screenshot": "screenshots\/faq-1.jpg",
+            "source": "templates\/faq-1-74410bbe64c471df5814087cfbf1147c.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ 2 (Pro)",
+            "screenshot": "screenshots\/faq-2-pro-.jpg",
+            "source": "templates\/faq-2-pro-aa04f8fa75340bd0ed4b329d049913fa.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact 1",
+            "screenshot": "screenshots\/contact-1.jpg",
+            "source": "templates\/contact-1-f3c58c2a07d188a841906da6019feb7c.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact 2 (Pro)",
+            "screenshot": "screenshots\/contact-2-pro-.jpg",
+            "source": "templates\/contact-2-pro-d0577f862eb5a1e7857789d906106425.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Tours 1",
+            "screenshot": "screenshots\/tours-1.jpg",
+            "source": "templates\/tours-1-be54a79dd8a42c2981e49ce23bda6160.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tours 2 (Pro)",
+            "screenshot": "screenshots\/tours-2-pro-.jpg",
+            "source": "templates\/tours-2-pro-086acce9b9aeb02f87c778180919dcce.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [
+        {
+            "name": "Custom CSS",
+            "description": "These styles are added to the WordPress Customizer.",
+            "file": "css\/customizer.css"
+        }
+    ],
+    "images": []
+}

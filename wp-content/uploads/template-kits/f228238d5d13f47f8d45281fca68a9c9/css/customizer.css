@@ -1,0 +1,61 @@
+/* Makes fonts nice and smooth on all devices & browsers */
+* { 
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Clients logo slider opacity */
+.envato-kit-177-client-slider {
+	opacity: .3;
+}
+
+/* Custom Embed Play Button */
+.envato-kit-177-play-button .elementor-custom-embed-play,
+.envato-kit-177-play-button-sm .elementor-custom-embed-play {
+	    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    -ms-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    width: 100px;
+    border-radius: 50%;
+    height: 100px;
+    border: 0;
+    box-shadow: 0 0 0 15px rgba(255,255,255,.4);
+	  -webkit-transition: .25s;
+	  -moz-transition: .25s;
+    transition: .25s;
+    background: #fff;
+}
+.envato-kit-177-play-button .eicon-play,
+.envato-kit-177-play-button-sm .eicon-play  {
+	display: none;
+}
+.envato-kit-177-play-button .elementor-custom-embed-play:before, .envato-kit-177-play-button-sm .elementor-custom-embed-play:before {
+    position: absolute;
+    top: 50%;
+    margin-top: -7px;
+    left: 50%;
+    margin-left: -4px;
+    content: '';
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 7px 0 7px 12px;
+    border-color: transparent transparent transparent #000102;
+}
+.envato-kit-177-play-button:hover .elementor-custom-embed-play,
+.envato-kit-177-play-button-sm:hover .elementor-custom-embed-play {
+	    
+    box-shadow: 0 0 0 10px rgba(255,255,255,.2);
+}
+.envato-kit-177-play-button-sm .elementor-custom-embed-play {
+    width: 60px;
+    height: 60px;
+	box-shadow: 0 0 0 0px rgba(255,255,255,.2);
+}
+.envato-kit-177-play-button .elementor-custom-embed-play:before, .envato-kit-177-play-button-sm .elementor-custom-embed-play:before {
+    margin-top: -5px;
+    margin-left: -4px;
+    border-width: 5px 0 5px 10px;
+}

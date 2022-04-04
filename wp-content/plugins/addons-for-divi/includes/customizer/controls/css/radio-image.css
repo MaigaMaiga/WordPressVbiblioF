@@ -1,0 +1,32 @@
+.customize-control-brainaddons-radio-image label {
+    position: relative;
+    display: inline-block;
+    margin-right: 12px;
+}
+
+.customize-control-brainaddons-radio-image > .image {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 5px;
+    grid-row-gap: 5px;
+}
+
+.customize-control-brainaddons-radio-image input {
+    display: none;
+}
+
+.customize-control-brainaddons-radio-image .brainaddons-radio-img-svg svg {
+    width: 75px;
+    height: 50px;
+}
+
+.customize-control-brainaddons-radio-image input + label svg {
+    background: #f9f9f9;
+    border-radius: 3px;
+}
+
+.customize-control-brainaddons-radio-image input:checked + label svg {
+    background: #fff;
+    border-radius: 3px;
+    box-shadow: 0 0 3px 0 #506cff;
+}
